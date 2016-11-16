@@ -18,9 +18,9 @@
 <resources>
     <color name="photo_placeholder">#d4e6ff</color>
     <!--https://www.materialpalette.com/deep-purple/pink-->
-    <color name="primary">#019fca</color>
-    <color name="primary_dark">#0d549a</color>
-    <color name="primary_light">#D1C4E9</color>
+    <color name="primary">#019dc7</color>
+    <color name="primary_dark">#0187ad</color>
+    <color name="primary_light">#01a9d6</color>
     <color name="accent">#df4e4a</color>
     <color name="primary_text">#0c0658</color>
     <color name="secondary_text">#51497f</color>
